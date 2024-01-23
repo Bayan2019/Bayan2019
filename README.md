@@ -1,1 +1,7 @@
-# Bayan Saparbayeva
+# About
+
+With over two years of experience as a Data Scientist and a Postdoctoral Researcher, I have developed a strong background in machine learning, modeling, mathematics, data collection, data analysis, data preprocessing, and data simulation. I have a PhD in Mathematics from Novosibirsk State University and a Postgraduate Degree in Big Data in Technology from University of California, Riverside. I also have multiple certifications in data visualization, data-driven decision making, and financial statement analysis.
+
+As a Data Scientist at Trade Capital Corporation, I built and developed a Python package to collect, clean, preprocess, visualize, and analyze financial data from various sources, such as Yahoo, EDGAR, and FMP. I also created a dashboard to present the services and values that the company offered to potential customers, using Dash, Python, and SQL. I collaborated with stakeholders and other data scientists to improve the quality and efficiency of the data pipeline and the dashboard. I was able to identify 59 potential customers and increase the user retention rate by 25%.
+
+I am looking for a new role in Data Science, Data Analysis, and Machine Learning at top technology, biotechnology, finance and other data-driven companies, where I can apply my skills and expertise to solve complex and meaningful problems. I value loyalty, work ethic, transparency, diversity, quality, and fairness in my work environment. I am eager to learn from and contribute to a team that shares these values and strives for excellence and innovation. I am passionate about using data to make a positive impact in the world.
